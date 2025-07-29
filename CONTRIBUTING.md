@@ -80,7 +80,7 @@ We welcome contributions in the following ways:
 ## Need Help? ❓
 
 If you need help with anything, feel free to open an issue or reach out to the project maintainers.
-### Subhash Raveendran - subhashraveendran7@gmail.com - 9092666820
+### Varun Balakrishnan - subhashraveendran7@gmail.com - 9092666820
 
 ---
 
